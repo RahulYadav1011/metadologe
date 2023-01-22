@@ -142,7 +142,8 @@ h6 {
 @media (min-width: 768px) {
     #nav,
     #nav .navbar {
-        background: rgba(0, 0, 0, 1) !important;
+/*         background: rgba(0, 0, 0, 1) !important; */
+        Background :black;
     }
     
     #nav a.nav-link {
@@ -155,7 +156,8 @@ h6 {
 @media (max-width: 768px) {   
     #nav,
     #nav .navbar {
-        background: rgba(0, 0, 0, 1) !important;
+/*         background: rgba(0, 0, 0, 1) !important; */
+        Background :black;
     }
     
     #nav a.nav-link {

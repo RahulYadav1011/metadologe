@@ -122,7 +122,7 @@ h6 {
 #nav .nav-link:hover,
 #nav .nav-link.active {
 /*     color: #ffffff; */
-    color:black;
+    color: black;
 }
 
 #nav .nav-link:hover,
@@ -143,7 +143,7 @@ h6 {
     #nav,
     #nav .navbar {
 /*         background: rgba(0, 0, 0, 1) !important; */
-        Background :black;
+        Background :white;
     }
     
     #nav a.nav-link {
@@ -157,7 +157,7 @@ h6 {
     #nav,
     #nav .navbar {
 /*         background: rgba(0, 0, 0, 1) !important; */
-        Background :black;
+        Background :white;
     }
     
     #nav a.nav-link {

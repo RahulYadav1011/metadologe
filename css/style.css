@@ -121,7 +121,8 @@ h6 {
 #nav .nav-link:focus,
 #nav .nav-link:hover,
 #nav .nav-link.active {
-    color: #ffffff;
+/*     color: #ffffff; */
+    color:black;
 }
 
 #nav .nav-link:hover,
